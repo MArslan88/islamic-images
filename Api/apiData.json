@@ -2,7 +2,7 @@
    "category": [
         {
             "categoryId": "1",
-            "categoryName": "MECCA",
+            "categoryName": "Mecca",
             "images": [
                 {
                     "imageId": "1",
@@ -442,7 +442,7 @@
         },
         {
             "categoryId": "2",
-            "categoryName": "MADINA",
+            "categoryName": "Madina",
             "images": [
                 {
                     "imageId": "1",
@@ -642,7 +642,7 @@
         },
         {
             "categoryId": "3",
-            "categoryName": "MOSQUE",
+            "categoryName": "Mosque",
             "images": [
                 {
                     "imageId": "1",
@@ -1119,7 +1119,7 @@
         },
         {
             "categoryId": "4",
-            "categoryName": "ART",
+            "categoryName": "Art",
             "images": [
                 {
                     "imageId": "1",
