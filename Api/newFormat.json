@@ -1,0 +1,86 @@
+{
+    "category": [
+        {
+            "categoryId": "1",
+            "categoryName": "Nature",
+            "categoryImageUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/nature.png",
+            "subCategory" : [
+                {
+                    "subCategoryId" : "1",
+                    "name": "Forest",
+                    "imageUrl" : "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest.png",
+                    "images" : [     
+                        {
+                            "imageId": "1",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
+                        },
+                        {
+                            "imageId": "2",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/002",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/02"
+                        }
+                    ]
+                },
+                {
+                    "subCategoryId" : "2",
+                    "name": "Oceans",
+                    "imageUrl" : "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest.png",
+                    "images" : [     
+                        {
+                            "imageId": "1",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
+                        },
+                        {
+                            "imageId": "2",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/002",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/02"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryId": "2",
+            "categoryName": "Abstract",
+            "categoryImageUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/abstract.png",
+            "subCategory" : [
+                {
+                    "subCategoryId" : "1",
+                    "name": "Geometric",
+                    "imageUrl" : "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest.png",
+                    "images" : [     
+                        {
+                            "imageId": "1",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
+                        },
+                        {
+                            "imageId": "2",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/002",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/02"
+                        }
+                    ]
+                },
+                {
+                    "subCategoryId" : "2",
+                    "name": "Minimalistic",
+                    "imageUrl" : "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest.png",
+                    "images" : [     
+                        {
+                            "imageId": "1",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
+                        },
+                        {
+                            "imageId": "2",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/002",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/02"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
