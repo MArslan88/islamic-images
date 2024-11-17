@@ -38,6 +38,23 @@
                             "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/02"
                         }
                     ]
+                },
+                {
+                    "subCategoryId" : "2",
+                    "name": "Mountains",
+                    "imageUrl" : "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/mountains.png",
+                    "images" : [     
+                        {
+                            "imageId": "1",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
+                        },
+                        {
+                            "imageId": "2",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/002",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/02"
+                        }
+                    ]
                 }
             ]
         },
