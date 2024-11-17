@@ -48,11 +48,42 @@
                             "imageId": "1",
                             "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
                             "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "subCategoryId" : "4",
+                    "name": "Deserts",
+                    "imageUrl" : "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/deserts.png",
+                    "images" : [     
                         {
-                            "imageId": "2",
-                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/002",
-                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/02"
+                            "imageId": "1",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
+                        }
+                    ]
+                },
+                {
+                    "subCategoryId" : "5",
+                    "name": "Sunsets",
+                    "imageUrl" : "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/sunsets.png",
+                    "images" : [     
+                        {
+                            "imageId": "1",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
+                        }
+                    ]
+                },
+                {
+                    "subCategoryId" : "6",
+                    "name": "Animals",
+                    "imageUrl" : "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/animals.png",
+                    "images" : [     
+                        {
+                            "imageId": "1",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
                         }
                     ]
                 }
