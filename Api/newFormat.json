@@ -131,6 +131,49 @@
                     ]
                 }
             ]
+        },
+        {
+            "categoryId": "3",
+            "categoryName": "Space & Astronomy",
+            "categoryImageUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/space.png",
+            "subCategory" : [
+                {
+                    "subCategoryId" : "1",
+                    "name": "Galaxies",
+                    "imageUrl" : "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Space/galaxies.png",
+                    "images" : [     
+                        {
+                            "imageId": "1",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
+                        }
+                    ]
+                },
+                {
+                    "subCategoryId" : "2",
+                    "name": "Nebulas",
+                    "imageUrl" : "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Space/nebulas.png",
+                    "images" : [     
+                        {
+                            "imageId": "1",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
+                        }
+                    ]
+                },
+                {
+                    "subCategoryId" : "3",
+                    "name": "Planets",
+                    "imageUrl" : "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Space/planets.png",
+                    "images" : [     
+                        {
+                            "imageId": "1",
+                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
