@@ -12,13 +12,48 @@
                     "images" : [     
                         {
                             "imageId": "1",
-                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
-                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/small/image1.png",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/medium/image1.png"
                         },
                         {
                             "imageId": "2",
-                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/002",
-                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/02"
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/small/image2.png",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/medium/image2.png"
+                        },
+                        {
+                            "imageId": "3",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/small/image3.png",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/medium/image3.png"
+                        },
+                        {
+                            "imageId": "4",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/small/image4.png",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/medium/image4.png"
+                        },
+                        {
+                            "imageId": "5",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/small/image5.png",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/medium/image5.png"
+                        },
+                        {
+                            "imageId": "6",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/small/image6.png",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/medium/image6.png"
+                        },
+                        {
+                            "imageId": "7",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/small/image7.png",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/medium/image7.png"
+                        },
+                        {
+                            "imageId": "8",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/small/image8.png",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/medium/image8.png"
+                        },
+                        {
+                            "imageId": "9",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/small/image9.png",
+                            "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/New-UI-Images/NewImages/Category/Nature/forest/medium/image9.png"
                         }
                     ]
                 },
@@ -29,12 +64,12 @@
                     "images" : [     
                         {
                             "imageId": "1",
-                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
                             "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
                         },
                         {
                             "imageId": "2",
-                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/002",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/002",
                             "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/02"
                         }
                     ]
@@ -46,7 +81,7 @@
                     "images" : [     
                         {
                             "imageId": "1",
-                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
                             "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
                         }
                     ]
@@ -58,7 +93,7 @@
                     "images" : [     
                         {
                             "imageId": "1",
-                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
                             "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
                         }
                     ]
@@ -70,7 +105,7 @@
                     "images" : [     
                         {
                             "imageId": "1",
-                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
                             "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
                         }
                     ]
@@ -82,7 +117,7 @@
                     "images" : [     
                         {
                             "imageId": "1",
-                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
                             "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
                         }
                     ]
@@ -144,7 +179,7 @@
                     "images" : [     
                         {
                             "imageId": "1",
-                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
                             "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
                         }
                     ]
@@ -156,7 +191,7 @@
                     "images" : [     
                         {
                             "imageId": "1",
-                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
                             "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
                         }
                     ]
@@ -168,7 +203,7 @@
                     "images" : [     
                         {
                             "imageId": "1",
-                            "urlsmallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
+                            "smallUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/00macca/001",
                             "mediumUrl": "https://raw.githubusercontent.com/MArslan88/islamic-images/refs/heads/main/Download/0macca/01"
                         }
                     ]
